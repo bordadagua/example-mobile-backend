@@ -1,5 +1,6 @@
 {
   "name": "Example Stripe Backend",
+  "stack": "heroku-18",
   "description": "For testing the Stripe example mobile apps at github.com/stripe/stripe-ios and github.com/stripe/stripe-android",
   "repository": "https://github.com/stripe/example-mobile-backend",
   "keywords": ["ios", "stripe"],
